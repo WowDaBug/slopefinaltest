@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Apr 2023 17:08:56 at https://rawcdn.githack.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rawcdn.githack.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/index.html -O1 "C:\My Web Sites\tes" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:08:56	Warning: 	Moved Permanently for https://rawcdn.githack.com/robots.txt
+17:08:56	Warning: 	File has moved from https://rawcdn.githack.com/robots.txt to http://raw.githack.com/robots.txt
+17:08:58	Error: 	"Not Found" (404) at link raw.githack.com/img/newlogo.png (from https://rawcdn.githack.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/index.html)
+17:09:02	Error: 	"Not Found" (404) at link https://rawcdn.githack.com/html/settings/js/index.js (from https://rawcdn.githack.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/index.html)
+17:09:02	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/progressLogo.Light.png (from https://rawcdn.githack.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/style.css)
+17:09:02	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/progressEmpty.Light.png (from https://rawcdn.githack.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/style.css)
+17:09:02	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/progressFull.Light.png (from https://rawcdn.githack.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/style.css)
+17:09:02	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/webgl-logo.png (from https://rawcdn.githack.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/style.css)
+17:09:02	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/fullscreen.png (from https://rawcdn.githack.com/lioxryt/lioxryt-assets/a4041fc9b45936f148d3d7134977d5df4329e237/other/slope/TemplateData/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 15 links scanned, 7 files written (199402 bytes overall) [116386 bytes received at 19397 bytes/sec], 197894 bytes transferred using HTTP compression in 5 files, ratio 45%, 8.0 requests per connection
+(7 errors, 2 warnings, 0 messages)
